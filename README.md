@@ -1,6 +1,6 @@
 # ☀️🌧️ Limpeza e Tratamento de Dados Climáticos (`tempo.csv`)
 
-Este repositório contém a **solução desenvolvida por mim para o exercício "FAÇA VOCÊ MESMO 2"** da **Formação Cientista de Dados: O Curso Completo - 2025**, ministrado pelo professor **Fernando Amaral**.
+Este repositório contém a **solução desenvolvida por mim para o exercício "FAÇA VOCÊ MESMO"** da **Formação Cientista de Dados: O Curso Completo - 2025**, ministrado pelo professor **Fernando Amaral**.
 
 ---
 
@@ -15,7 +15,7 @@ Aplicar conceitos de **exploração**, **limpeza** e **tratamento de dados** ao 
 - `tempo.csv`: Arquivo original com os dados brutos, fornecido pelo curso.
 - `tempo_tratado.xls`: Arquivo resultante após limpeza e padronização.
 - `Limpeza_Tratamento_tempo.ipynb`: Notebook Jupyter com a implementação passo a passo da solução.
-- `FACAVCMESMO2.pdf`: Arquivo com apresentação do problema, fornecido pelo curso.
+- `4.Faça Você mesmo.pdf`: Arquivo com apresentação do problema, fornecido pelo curso.
 
 ---
 
