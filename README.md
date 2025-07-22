@@ -15,7 +15,7 @@ Aplicar conceitos de **exploração**, **limpeza** e **tratamento de dados** ao 
 - `tempo.csv`: Arquivo original com os dados brutos, fornecido pelo curso.
 - `tempo_tratado.xls`: Arquivo resultante após limpeza e padronização.
 - `Limpeza_Tratamento_tempo.ipynb`: Notebook Jupyter com a implementação passo a passo da solução.
-- `4.Faça Você mesmo.pdf`: Arquivo com apresentação do problema, fornecido pelo curso.
+- `4.Faça Você mesmo.pdf`: Arquivo com a apresentação do problema, fornecido pelo curso.
 
 ---
 
