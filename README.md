@@ -15,6 +15,7 @@ Aplicar conceitos de **exploração**, **limpeza** e **tratamento de dados** ao 
 - `tempo.csv`: Arquivo original com os dados brutos, fornecido pelo curso.
 - `tempo_tratado.xls`: Arquivo resultante após limpeza e padronização.
 - `Limpeza_Tratamento_tempo.ipynb`: Notebook Jupyter com a implementação passo a passo da solução.
+- `FACAVCMESMO2.pdf`: Arquivo com apresentação do problema, fornecido pelo curso.
 
 ---
 
@@ -50,10 +51,6 @@ O notebook realiza as seguintes etapas:
 
 4. **Tratamento de Outliers**
    - Identificação e remoção/correção de valores inconsistentes
-
-5. **Exportação do Conjunto de Dados Tratado**
-
----
 
 ## ✅ Resultado
 
