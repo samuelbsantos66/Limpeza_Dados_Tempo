@@ -62,7 +62,7 @@ O resultado final é um dataset limpo, com dados padronizados, consistente com o
 
 - Curso: **Formação Cientista de Dados: O Curso Completo - 2025**
 - Instrutor: **Fernando Amaral**
-- Exercício: **FAÇA VOCÊ MESMO 2**
+- Exercício: **FAÇA VOCÊ MESMO (Limpeza e Tratamento de Dados)**
 - Arquivo original: `tempo.csv` (fornecido no material do curso)
 
 ---
